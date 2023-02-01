@@ -2,135 +2,156 @@
     "hardware":[
         {
             "id": 1,
+            "categoria": 1,
             "nome": "coolers",
-            "disponivel": true,
-            "preco": 20
-        },
-        {
-            "id": 2,
-            "nome": "disco rigido",
             "disponivel": true,
             "preco": 10
         },
         {
+            "id": 2,
+            "categoria": 1,
+            "nome": "disco rigido",
+            "disponivel": true,
+            "preco": 264
+        },
+        {
             "id": 3,
+            "categoria": 1,
             "nome": "drivers",
             "disponivel": false,
-            "preco": 0
+            "preco": 140
         },
         {
             "id": 4,
+            "categoria": 1,
             "nome": "fontes",
-            "disponivel": false,
-            "preco": 0
+            "disponivel": true,
+            "preco": 199
         },
         {
             "id": 5,
+            "categoria": 1,
             "nome": "memoria ram",
-            "disponivel": false,
-            "preco": 0
+            "disponivel": true,
+            "preco": 159
         },
         {
             "id": 6,
+            "categoria": 1,
             "nome": "placa de video",
-            "disponivel": false,
-            "preco": 0
+            "disponivel": true,
+            "preco": 1349
         },
         {
             "id": 7,
+            "categoria": 1,
             "nome": "processadores",
-            "disponivel": false,
-            "preco": 0
+            "disponivel": true,
+            "preco": 619
         },
         {
             "id": 8,
+            "categoria": 1,
             "nome": "placa mae",
-            "disponivel": false,
-            "preco": 0
+            "disponivel": true,
+            "preco": 549
         },
         {
             "id": 9,
+            "categoria": 1,
             "nome": "ssd",
-            "disponivel": false,
-            "preco": 0
+            "disponivel": true,
+            "preco": 144
         }
     ],
 
     "perifericos":[
         {
             "id": 10,
+            "categoria": 2,
             "nome": "pen drive",
             "disponivel": true,
-            "preco": 10
+            "preco": 39
         },
         {
             "id": 11,
+            "categoria": 2,
             "nome": "headset",
             "disponivel": true,
-            "preco": 9
+            "preco": 199
         },
         {
             "id": 12,
+            "categoria": 2,
             "nome": "teclado",
-            "disponivel": false,
-            "preco": 0
+            "disponivel": true,
+            "preco": 249
         },
         {
             "id": 13,
+            "categoria": 2,
             "nome": "mouse",
             "disponivel": true,
-            "preco": 8
+            "preco": 31
         },
         {
             "id": 14,
+            "categoria": 2,
             "nome": "mouse pad",
-            "disponivel": false,
-            "preco": 0
+            "disponivel": true,
+            "preco": 39
         },
         {
             "id": 15,
+            "categoria": 2,
             "nome": "gabinetes",
-            "disponivel": false,
-            "preco": 0
+            "disponivel": true,
+            "preco": 309
         }
     ],
 
     "smartphones":[
         {
             "id": 16,
+            "categoria": 3,
             "nome": "asus",
             "disponivel": true,
-            "preco": 9
+            "preco": 2899
         },
         {
             "id": 17,
+            "categoria": 3,
             "nome": "iphone",
-            "disponivel": false,
-            "preco": 0
+            "disponivel": true,
+            "preco": 2399
         },
         {
             "id": 18,
+            "categoria": 3,
             "nome": "lg",
             "disponivel": true,
-            "preco": 12
+            "preco": 899
         },
         {
             "id": 19,
+            "categoria": 3,
             "nome": "samsung",
             "disponivel": true,
-            "preco": 9
+            "preco": 854
         },
         {
             "id": 20,
+            "categoria": 3,
             "nome": "motorola",
-            "disponivel": false,
-            "preco": 0
+            "disponivel": true,
+            "preco": 679
         },
         {
             "id": 21,
+            "categoria": 3,
             "nome": "xiaomi",
-            "disponivel": false,
-            "preco": 0
+            "disponivel": true,
+            "preco": 1709
         }
     ]
 }
