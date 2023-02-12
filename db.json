@@ -4,64 +4,82 @@
             "id": 1,
             "categoria": 1,
             "nome": "coolers",
-            "disponivel": true,
-            "preco": 10
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         },
         {
             "id": 2,
             "categoria": 1,
             "nome": "disco rigido",
-            "disponivel": true,
-            "preco": 264
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         },
         {
             "id": 3,
             "categoria": 1,
             "nome": "drivers",
-            "disponivel": false,
-            "preco": 140
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         },
         {
             "id": 4,
             "categoria": 1,
             "nome": "fontes",
-            "disponivel": true,
-            "preco": 199
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         },
         {
             "id": 5,
             "categoria": 1,
             "nome": "memoria ram",
-            "disponivel": true,
-            "preco": 159
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         },
         {
             "id": 6,
             "categoria": 1,
             "nome": "placa de video",
-            "disponivel": true,
-            "preco": 1349
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         },
         {
             "id": 7,
             "categoria": 1,
             "nome": "processadores",
-            "disponivel": true,
-            "preco": 619
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         },
         {
             "id": 8,
             "categoria": 1,
             "nome": "placa mae",
-            "disponivel": true,
-            "preco": 549
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         },
         {
             "id": 9,
             "categoria": 1,
             "nome": "ssd",
-            "disponivel": true,
-            "preco": 144
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         }
     ],
 
@@ -70,43 +88,55 @@
             "id": 10,
             "categoria": 2,
             "nome": "pen drive",
-            "disponivel": true,
-            "preco": 39
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         },
         {
             "id": 11,
             "categoria": 2,
             "nome": "headset",
-            "disponivel": true,
-            "preco": 199
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         },
         {
             "id": 12,
             "categoria": 2,
             "nome": "teclado",
-            "disponivel": true,
-            "preco": 249
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         },
         {
             "id": 13,
             "categoria": 2,
             "nome": "mouse",
-            "disponivel": true,
-            "preco": 31
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         },
         {
             "id": 14,
             "categoria": 2,
             "nome": "mouse pad",
-            "disponivel": true,
-            "preco": 39
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         },
         {
             "id": 15,
             "categoria": 2,
             "nome": "gabinetes",
-            "disponivel": true,
-            "preco": 309
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         }
     ],
 
@@ -115,43 +145,55 @@
             "id": 16,
             "categoria": 3,
             "nome": "asus",
-            "disponivel": true,
-            "preco": 2899
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         },
         {
             "id": 17,
             "categoria": 3,
             "nome": "iphone",
-            "disponivel": true,
-            "preco": 2399
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         },
         {
             "id": 18,
             "categoria": 3,
             "nome": "lg",
-            "disponivel": true,
-            "preco": 899
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         },
         {
             "id": 19,
             "categoria": 3,
             "nome": "samsung",
-            "disponivel": true,
-            "preco": 854
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         },
         {
             "id": 20,
             "categoria": 3,
             "nome": "motorola",
-            "disponivel": true,
-            "preco": 679
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         },
         {
             "id": 21,
             "categoria": 3,
             "nome": "xiaomi",
-            "disponivel": true,
-            "preco": 1709
+            "promocao": true,
+            "preco": 10,
+            "descricao": 10,
+            "informacao": 0
         }
     ]
 }
