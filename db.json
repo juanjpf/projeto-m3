@@ -3,74 +3,74 @@
         {
             "id": 1,
             "categoria": 1,
-            "nome": "coolers",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Cooler Fan Rise Mode Energy",
+            "preco": "R$ 89,99",
+            "descricao": "Kit 3x Cooler FAN Rise Mode Energy 120mm, Led ARGB, 5V - FN-02-RGB-5V",
+            "poster": "https://images.kabum.com.br/produtos/fotos/153647/cooler-fan-rise-mode-energy-3-unidades-120mm-argb-preto-fn-02-rgb-5v_1663768314_gg.jpg"
         },
         {
             "id": 2,
             "categoria": 1,
-            "nome": "disco rigido",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "HD Seagate BarraCuda 1TB",
+            "preco": R$ 249,99"",
+            "descricao": "HD Seagate BarraCuda, 1TB, 3.5´, SATA - ST1000DM010",
+            "poster": "https://images.kabum.com.br/produtos/fotos/84108/84108_index_gg.jpg"
         },
         {
             "id": 3,
             "categoria": 1,
-            "nome": "drivers",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Drive ASUS Interno CD/DVD",
+            "preco": "R$ 119,99",
+            "descricao": "Drive ASUS Gravador e Leitor de CD/DVD, SATA, 24X, Preto - DRW-24F1MT/BLK/B/AS",
+            "poster": "https://images.kabum.com.br/produtos/fotos/71577/71577_index_gg.jpg"
         },
         {
             "id": 4,
             "categoria": 1,
-            "nome": "fontes",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Fonte EVGA 400W",
+            "preco": "R$ 219,99",
+            "descricao": "Fonte EVGA 400W 100-N1-0400-L0",
+            "poster": "https://images.kabum.com.br/produtos/fotos/59467/59467_index_gg.jpg"
         },
         {
             "id": 5,
             "categoria": 1,
-            "nome": "memoria ram",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Memória HyperX Kingston Fury Beast",
+            "preco": "R$ 300,05",
+            "descricao": "Memória Kingston Fury Beast, 8GB, DDR4, 3600mhz, Cl17, Rgb - Kf436c17bba/8",
+            "poster": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/381679/Mem-ria-HyperX-Kingston-Fury-Beast-RGB-8GB-3600MHz-DDR4-CL17-KF436C17BBA-8_1674569955_gg.jpg"
         },
         {
             "id": 6,
             "categoria": 1,
-            "nome": "placa de video",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Placa de Vídeo GTX 1660 Ti O6G EVO OC Asus",
+            "preco": "R$ 1.649,99",
+            "descricao": "Placa de Vídeo EVO OC Asus TUF Gaming NVIDIA Geforce, 6GB GDDR6, Preto - TUF-GTX1660TI-O6G-EVO-GAMING",
+            "poster": "https://images.kabum.com.br/produtos/fotos/270812/placa-de-video-asus-tuf-gaming-nvidia-geforce-gtx-1660-ti-o6g-evo-oc-6gb-gddr6-preto-90yv0ct7-m0na00_1637779769_gg.jpg"
         },
         {
             "id": 7,
             "categoria": 1,
-            "nome": "processadores",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Processador Intel Core i5-10400F",
+            "preco": "R$ 899,99",
+            "descricao": "Processador Intel Core i5-10400F, 2.9GHz (4.3GHz Max Turbo), Cache 12MB, 6 Núcleos, 12 Threads, LGA 1200 - BX8070110400F",
+            "poster": "https://images.kabum.com.br/produtos/fotos/112991/processador-intel-core-i5-10400f-cache-12mb-2-9ghz-lga-1200-bx8070110400f_1589199927_gg.jpg"
         },
         {
             "id": 8,
             "categoria": 1,
-            "nome": "placa mae",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Placa Mãe Gigabyte Z690M Aorus Elite",
+            "preco": "R$ 1.999,99",
+            "descricao": "Placa Mãe Gigabyte Z690M Aorus Elite, Intel LGA 1700, mATX, DDR4, M.2 NVMe, (rev. 1.0)",
+            "poster": "https://images.kabum.com.br/produtos/fotos/241915/placa-mae-gigabyte-z690m-aorus-elite-intel-lga-1700-matx-ddr4-m-2-nvme-rev-1-0-_1675089819_gg.jpg"
         },
         {
             "id": 9,
             "categoria": 1,
-            "nome": "ssd",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "SSD 480 GB Kingston A400,",
+            "preco": "R$ 219,99",
+            "descricao": "SSD 480 GB Kingston A400, SATA, Leitura: 500MB/s e Gravação: 450MB/s - SA400S37/480G",
+            "poster": "https://images.kabum.com.br/produtos/fotos/85198/ssd-kingston-a400-480gb-sata-leitura-500mb-s-gravacao-450mb-s-sa400s37-480g_1629133546_gg.jpg"
         }
     ],
 
@@ -78,50 +78,50 @@
         {
             "id": 10,
             "categoria": 2,
-            "nome": "pen drive",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Pen Drive DataTraveler Exodia",
+            "preco": "R$ 22,99",
+            "descricao": "Pen Drive DataTraveler Exodia 32GB Kingston com Conexão USB 3.2, Preto/Branco - DTX/32GB",
+            "poster": "https://images.kabum.com.br/produtos/fotos/154111/pendrive-datatraveler-exodia-32gb-kingston-com-conexao-usb-3-2-preto-branco-dtx-32gb_1619109009_gg.jpg"
         },
         {
             "id": 11,
             "categoria": 2,
-            "nome": "headset",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Headset Gamer Havit",
+            "preco": "R$ 189,99",
+            "descricao": "Headset Gamer Havit, Drivers 53mm, Microfone Plugável, P2, PC, PS4, XBOX ONE, Preto - HV-H2002D",
+            "poster": "https://images.kabum.com.br/produtos/fotos/102770/headset-gamer-havit-drivers-53mm-hv-h2002d_headset-gamer-havit-drivers-53mm-hv-h2002d_1564056874_gg.jpg"
         },
         {
             "id": 12,
             "categoria": 2,
-            "nome": "teclado",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Teclado Mecânico Gamer HyperX Mars RGB",
+            "preco": "R$ 249,99",
+            "descricao": "Teclado Mecânico Gamer HyperX Mars RGB, Switch Outemu Blue, US - HX-KB3BL3-US/R4",
+            "poster": "https://images.kabum.com.br/produtos/fotos/92590/92590_index_gg.jpg"
         },
         {
             "id": 13,
             "categoria": 2,
-            "nome": "mouse",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Mouse Gamer Logitech G203 LIGHTSYNC RGB",
+            "preco": "R$ 119,99",
+            "descricao": "Mouse Gamer Logitech G203 LIGHTSYNC RGB, Efeito de Ondas de Cores, 6 Botões Programáveis e Até 8.000 DPI, Preto - 910-005793",
+            "poster": "https://images.kabum.com.br/produtos/fotos/112948/mouse-gamer-logitech-g203-rgb-lightsync-6-botoes-8000-dpi-preto-910-005793_1612880277_gg.jpg"
         },
         {
             "id": 14,
             "categoria": 2,
-            "nome": "mouse pad",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Mousepad Gamer Havit",
+            "preco": "R$ 69,99",
+            "descricao": "Mousepad Gamer Havit, 800x300mm, RGB, Antiderrapante, Preto - MP858",
+            "poster": "https://images.kabum.com.br/produtos/fotos/391830/mousepad-gamer-havit-800x300mm-rgb-antiderrapante-preto-mp858_1674132989_gg.jpg"
         },
         {
             "id": 15,
             "categoria": 2,
-            "nome": "gabinetes",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Gabinete Gamer Rise Mode Galaxy Glass",
+            "preco": "R$ 749,99",
+            "descricao": "Gabinete Gamer Rise Mode Galaxy Glass, Mid Tower, Lateral e Frontal em Vidro Temperado, Branco - RM-GA-GG-FW",
+            "poster": "https://images.kabum.com.br/produtos/fotos/320909/gabinete-gamer-rise-mode-galaxy-glass-lateral-em-vidro-temperado-branco-rm-ga-gg-fw_1657736758_gg.jpg"
         }
     ],
 
@@ -129,51 +129,50 @@
         {
             "id": 16,
             "categoria": 3,
-            "nome": "asus",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Smartphone Asus Zenfone 8 5G",
+            "preco": "R$ 2.999,00",
+            "descricao": "Smartphone Asus Zenfone 8 5G ZS590KS-2A079BR, 8GB RAM, 256GB, Câmera Dupla 64MP, Tela 5.92, Preto - 90AI0061-M00850",
+            "poster": "https://images.kabum.com.br/produtos/fotos/252632/smartphone-asus-zenfone-8-zs590ks-2a079br-8gb-ram-256gb-camera-dupla-64mp-tela-5-92-preto-90ai0061-m00850_1636042671_gg.jpg"
         },
         {
             "id": 17,
             "categoria": 3,
-            "nome": "iphone",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Iphone 11 128GB Preto",
+            "preco": "R$ 3.599,00",
+            "descricao": "Iphone 11 128GB Preto, Tela 6.1, Câmera Dupla 12MP + Selfie 12MP - MHDH3BR/A",
+            "poster": "https://images.kabum.com.br/produtos/fotos/131021/iphone-11-preto-128gb-mhdh3br-a_1605032842_gg.jpg"
         },
         {
             "id": 18,
             "categoria": 3,
-            "nome": "lg",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Smartphone LG K62+",
+            "preco": "R$ 1.299,00",
+            "descricao": "Smartphone LG K62+, 128GB, 48Mp, Tela 6.6", Azul",
+            "poster": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/192276/Smartphone-LG-K62-128GB-48Mp-Tela-6-6-Azul_1663973908_gg.jpg"
         },
         {
             "id": 19,
             "categoria": 3,
-            "nome": "samsung",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Smartphone Samsung Galaxy A32",
+            "preco": "R$ 1.399,00",
+            "descricao": "Smartphone Samsung Galaxy A32, 128GB 4GB RAM, Octa Core, Câmera Quádrupla 64MP, Tela Infinita de 6.4, Preto - SM-A325MZKRLEB",
+            "poster": "https://images.kabum.com.br/produtos/fotos/381470/smartphone-samsung-galaxy-a32-128gb-4gb-ram-octa-core-camera-quadrupla-64mp-tela-infinita-de-6-4-preto-sm-a325mzkrleb_1665773352_gg.jpg"
         },
         {
             "id": 20,
             "categoria": 3,
-            "nome": "motorola",
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Smartphone Motorola Moto G71",
+            "preco": "R$ 1.599,00",
+            "descricao": "Smartphone Motorola Moto G71, 5G, 6GB RAM, 128GB, Câmera Tripla 50MP, Octa Core, Tela 6.4, Verde - PAS20017BR",
+            "poster": "https://images.kabum.com.br/produtos/fotos/308550/smartphone-motorola-moto-g71-xt2169-1-6gb-ram-128gb-camera-tripla-50mp-octa-core-tela-6-4-verde-pas20017br_1644264071_gg.jpg"
         },
         {
             "id": 21,
             "categoria": 3,
-            "nome": "xiaomi",
-            "promocao": true,
-            "preco": 10,
-            "descricao": 10,
-            "informacao": 0
+            "nome": "Smartphone Xiaomi Redmi Note 11",
+            "preco": "R$ 1.580,00",
+            "descricao": "Smartphone Xiaomi Redmi Note 11 128gb 6gb Ram Global Cinza (graphite Gray)",
+            "poster": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/353430/Smartphone-Xiaomi-Redmi-Note-11-128gb-6gb-Ram-Global-Cinza-graphite-Gray-_1674070124_gg.jpg"
         }
     ]
 }
