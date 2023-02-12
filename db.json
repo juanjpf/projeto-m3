@@ -4,7 +4,6 @@
             "id": 1,
             "categoria": 1,
             "nome": "coolers",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -13,7 +12,6 @@
             "id": 2,
             "categoria": 1,
             "nome": "disco rigido",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -22,7 +20,6 @@
             "id": 3,
             "categoria": 1,
             "nome": "drivers",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -31,7 +28,6 @@
             "id": 4,
             "categoria": 1,
             "nome": "fontes",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -40,7 +36,6 @@
             "id": 5,
             "categoria": 1,
             "nome": "memoria ram",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -49,7 +44,6 @@
             "id": 6,
             "categoria": 1,
             "nome": "placa de video",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -58,7 +52,6 @@
             "id": 7,
             "categoria": 1,
             "nome": "processadores",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -67,7 +60,6 @@
             "id": 8,
             "categoria": 1,
             "nome": "placa mae",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -76,7 +68,6 @@
             "id": 9,
             "categoria": 1,
             "nome": "ssd",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -88,7 +79,6 @@
             "id": 10,
             "categoria": 2,
             "nome": "pen drive",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -97,7 +87,6 @@
             "id": 11,
             "categoria": 2,
             "nome": "headset",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -106,7 +95,6 @@
             "id": 12,
             "categoria": 2,
             "nome": "teclado",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -115,7 +103,6 @@
             "id": 13,
             "categoria": 2,
             "nome": "mouse",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -124,7 +111,6 @@
             "id": 14,
             "categoria": 2,
             "nome": "mouse pad",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -133,7 +119,6 @@
             "id": 15,
             "categoria": 2,
             "nome": "gabinetes",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -145,7 +130,6 @@
             "id": 16,
             "categoria": 3,
             "nome": "asus",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -154,7 +138,6 @@
             "id": 17,
             "categoria": 3,
             "nome": "iphone",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -163,7 +146,6 @@
             "id": 18,
             "categoria": 3,
             "nome": "lg",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -172,7 +154,6 @@
             "id": 19,
             "categoria": 3,
             "nome": "samsung",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
@@ -181,7 +162,6 @@
             "id": 20,
             "categoria": 3,
             "nome": "motorola",
-            "promocao": true,
             "preco": 10,
             "descricao": 10,
             "informacao": 0
